@@ -1,0 +1,11 @@
+Les palindromes sont: 
+axa
+pop
+radar
+sas
+elle
+bob
+non
+kanak
+ses
+ici

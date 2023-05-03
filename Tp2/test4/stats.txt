@@ -1,0 +1,22 @@
+Il y a 500 mots:
+Il y a 54 mots qui commencent par a
+Il y a 28 mots qui commencent par b
+Il y a 61 mots qui commencent par c
+Il y a 17 mots qui commencent par d
+Il y a 27 mots qui commencent par e
+Il y a 24 mots qui commencent par f
+Il y a 10 mots qui commencent par g
+Il y a 12 mots qui commencent par h
+Il y a 22 mots qui commencent par i
+Il y a 3 mots qui commencent par j
+Il y a 11 mots qui commencent par l
+Il y a 26 mots qui commencent par m
+Il y a 9 mots qui commencent par n
+Il y a 9 mots qui commencent par o
+Il y a 61 mots qui commencent par p
+Il y a 1 mots qui commencent par q
+Il y a 43 mots qui commencent par r
+Il y a 38 mots qui commencent par s
+Il y a 21 mots qui commencent par t
+Il y a 3 mots qui commencent par u
+Il y a 20 mots qui commencent par v

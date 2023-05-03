@@ -1,0 +1,27 @@
+Il y a 100 mots:
+Il y a 21 mots qui commencent par a
+Il y a 5 mots qui commencent par b
+Il y a 9 mots qui commencent par c
+Il y a 2 mots qui commencent par d
+Il y a 4 mots qui commencent par e
+Il y a 5 mots qui commencent par f
+Il y a 4 mots qui commencent par g
+Il y a 0 mots qui commencent par h
+Il y a 8 mots qui commencent par i
+Il y a 1 mots qui commencent par j
+Il y a 1 mots qui commencent par k
+Il y a 3 mots qui commencent par l
+Il y a 2 mots qui commencent par m
+Il y a 2 mots qui commencent par n
+Il y a 1 mots qui commencent par o
+Il y a 9 mots qui commencent par p
+Il y a 0 mots qui commencent par q
+Il y a 11 mots qui commencent par r
+Il y a 6 mots qui commencent par s
+Il y a 3 mots qui commencent par t
+Il y a 1 mots qui commencent par u
+Il y a 2 mots qui commencent par v
+Il y a 0 mots qui commencent par w
+Il y a 0 mots qui commencent par x
+Il y a 0 mots qui commencent par y
+Il y a 0 mots qui commencent par z

@@ -1,0 +1,17 @@
+Les palindromes sont: 
+radar
+kanak
+radar
+elle
+sas
+elle
+serres
+non
+serres
+ses
+pop
+ici
+bob
+serres
+bob
+axa

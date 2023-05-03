@@ -1,0 +1,16 @@
+Il y a 40 mots:
+Il y a 7 mots qui commencent par a
+Il y a 2 mots qui commencent par b
+Il y a 9 mots qui commencent par c
+Il y a 3 mots qui commencent par d
+Il y a 1 mots qui commencent par e
+Il y a 1 mots qui commencent par g
+Il y a 1 mots qui commencent par j
+Il y a 1 mots qui commencent par k
+Il y a 1 mots qui commencent par l
+Il y a 1 mots qui commencent par m
+Il y a 5 mots qui commencent par p
+Il y a 2 mots qui commencent par r
+Il y a 2 mots qui commencent par s
+Il y a 2 mots qui commencent par t
+Il y a 2 mots qui commencent par v

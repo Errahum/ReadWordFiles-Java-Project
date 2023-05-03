@@ -1,0 +1,5 @@
+Les palindromes sont: 
+non
+elle
+radar
+ses
