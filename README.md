@@ -1,4 +1,3 @@
-# ReadWordFiles-Java-Project
 # Programme de lecture de liste de mots
 Ce programme permet de lire un fichier contenant une liste de mots en minuscule sans accents et de réaliser plusieurs opérations sur cette liste. Il est conçu pour fonctionner avec tous les fichiers que l'utilisateur peut fournir.
 
